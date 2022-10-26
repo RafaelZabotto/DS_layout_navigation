@@ -19,7 +19,7 @@ const Navbar = () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="desafio1-navbar">
+        <div className="collapse navbar-collapse nav-itens" id="desafio1-navbar">
           <ul className="navbar-nav offset-md-2 main-menu">
             <li>
               <a href="link" className="active">
