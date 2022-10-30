@@ -1,0 +1,39 @@
+.catalog-content-container {
+    border-radius: 10px;
+    color: black;
+    background-color: #ededed;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.catalog-image-container {
+    padding: 14px 0 8px 0;
+}
+
+.catalog-image-container img{
+    width: 240px;
+    height: 175px;
+}
+
+.catalog-text-container p{
+    padding: 14px 14px 30px 22px;
+    color: #585858;
+    font-style: italic;
+    text-align: left;
+}
+
+.catalog-button-content {
+    padding: 0 22px 15px 15px;
+}
+
+.catalog-content-container button{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #00285f;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
