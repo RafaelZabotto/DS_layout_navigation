@@ -1,11 +1,8 @@
-import Navbar from 'components/Navbar';
 import CarCard from 'components/CarCard';
 import Search from 'components/Search';
 
 const Catalog = () => {
   return (
-    <>
-      <Navbar />
       <div className="container my-4">
         <Search />
         <div className="row">
@@ -29,7 +26,6 @@ const Catalog = () => {
           </div>
         </div>
       </div>
-    </>
   );
 };
 
